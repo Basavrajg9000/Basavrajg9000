@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Basavraj Gadade</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🔭 I’m currently working on **Frontend**
+- 🔭 I’m currently working on **Frontend & Backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
